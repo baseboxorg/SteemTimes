@@ -1,0 +1,14 @@
+_minted-index
+*.aux
+*.bbl
+*.blg
+*.db
+*.db.lock
+*.fls
+*.lof
+*.log
+*.out
+*.pdf
+*.toc
+
+dist/
