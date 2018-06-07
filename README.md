@@ -1,6 +1,15 @@
 # SteemTimes
 
+The Newspaper for steem blockchain.
 
+## Whitepaper
+
+In progress...
+
+
+## Official Account on steem
+
+[@steem-times](https://steemit.com/@steem-times)
 
 
 ## Format of post
@@ -12,9 +21,9 @@ The format of post can be found at [format.md in this repo](format.md), or view 
 ## Contributors
 
 * [@ReviseSociology UK](https://steemit.com/@revisesociology)
-* [@Gabriellecd Venezuela](https://steemit.com/@garbriellecd)
+* [@Gabriellecd Venezuela](https://steemit.com/@gabriellecd)
 * [@victorcovrig Romania](https://steemit.com/@victorcovrig)
-* [@warpedpoetic Nigeria](https://steemit.com/@warpedpeotic)
+* [@warpedpoetic Nigeria](https://steemit.com/@warpedpoetic)
 * [@superoo7  Australia](https://steemit.com/@superoo7)
 * [@karmachela  Indonesia](https://steemit.com/@karmachela)
 * [@livinguktaiwan Taiwan](https://steemit.com/@livinguktaiwan)
