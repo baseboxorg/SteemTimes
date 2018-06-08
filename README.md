@@ -4,8 +4,9 @@ The Newspaper for steem blockchain.
 
 ## Whitepaper
 
-In progress...
+[Whitepaper of SteemTimes](index.pdf)
 
+(This is just a preview version, it still subject to change)
 
 ## Official Account on steem
 
@@ -15,8 +16,6 @@ In progress...
 ## Format of post
 
 The format of post can be found at [format.md in this repo](format.md), or view it on [steemit](https://steemit.com/esteem/@johnsonlai/say-no-more-to-microsoft-word-fe73aa1ca8232) or [busy](https://busy.org/@johnsonlai/say-no-more-to-microsoft-word-fe73aa1ca8232)
-
-
 
 ## Contributors
 
